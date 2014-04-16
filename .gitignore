@@ -1,0 +1,7 @@
+.*
+*.o
+*.hi
+*.out
+hsExpand
+parseTest
+test*[!(.hs)]

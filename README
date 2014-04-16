@@ -1,0 +1,7 @@
+HsExpand aims to be an interpreter for a small, educationally useful
+subset of Haskell98, that prints out the internal representation of
+the code in a human-readable manner after each "step" of evaluating
+it. Currently a step doesn't have a set definition.
+
+It uses and requires the haskell-src package for parsing and code
+representation.
